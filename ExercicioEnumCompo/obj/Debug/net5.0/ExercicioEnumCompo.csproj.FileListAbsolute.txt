@@ -1,0 +1,16 @@
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\bin\Debug\net5.0\ExercicioEnumCompo.exe
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\bin\Debug\net5.0\ExercicioEnumCompo.deps.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\bin\Debug\net5.0\ExercicioEnumCompo.runtimeconfig.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\bin\Debug\net5.0\ExercicioEnumCompo.runtimeconfig.dev.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\bin\Debug\net5.0\ExercicioEnumCompo.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\bin\Debug\net5.0\ExercicioEnumCompo.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\refint\ExercicioEnumCompo.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ExercicioEnumCompo.genruntimeconfig.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\ExercicioEnumCompo\ExercicioEnumCompo\obj\Debug\net5.0\ref\ExercicioEnumCompo.dll
